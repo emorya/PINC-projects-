@@ -6,13 +6,21 @@ A collection of machine learning, data science, and computational biology projec
 
 My academic background combines cell and molecular biology, computational biology, and bioengineering. These projects demonstrate my experience working with biological and healthcare-related datasets, exploring machine learning models, and interpreting computational results.
 
+## Start Here: Selected Notebooks
+
+These links point to existing coursework files. The notebooks have not been renamed or rewritten.
+
+- [ADNI Alzheimer's disease image classification](Emory_A_02_20_2025_Module1_NB2_ADNI_ADClassification.ipynb) — medical image classification coursework
+- [BraTS brain tumor segmentation](Copy%20of%2003_13_2025_Module2_NB2_BraTS_TumorSegmentation.ipynb) — MRI segmentation coursework
+- [Hyperparameter exploration in linear regression](ML_Project_2_Hyperparameter_Exploration_in_Linear_Regression_Models.ipynb) — predictive modeling and model comparison
+
 ## Featured Project Areas
 
 ### 1. Medical Imaging & Machine Learning
 
 **Alzheimer's Disease Classification (ADNI)**
 
-Coursework exploring the classification of medical images using pretrained neural networks and transfer learning.
+Coursework exploring the classification of medical images using neural networks.
 
 **Brain Tumor Segmentation (BraTS)**
 
@@ -39,13 +47,13 @@ Coursework involving biological sequence processing, including:
 
 ## Technologies
 
-**Programming:** Python, Pandas, NumPy
+**Programming and data analysis:** Python, Pandas, NumPy
 
-**Machine Learning:** PyTorch, TensorFlow, Scikit-learn
+**Machine learning:** PyTorch, TensorFlow, Scikit-learn
 
 **Visualization:** Matplotlib
 
-**Development Environment:** Jupyter Notebook, Google Colab
+**Development environment:** Jupyter Notebook, Google Colab
 
 ## Academic Background
 
