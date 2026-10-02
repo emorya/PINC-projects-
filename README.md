@@ -10,9 +10,9 @@ My academic background combines cell and molecular biology, computational biolog
 
 These links point to existing coursework files. The notebooks have not been renamed or rewritten.
 
-- [ADNI Alzheimer's disease image classification](Emory_A_02_20_2025_Module1_NB2_ADNI_ADClassification.ipynb) — medical image classification coursework
-- [BraTS brain tumor segmentation](Copy%20of%2003_13_2025_Module2_NB2_BraTS_TumorSegmentation.ipynb) — MRI segmentation coursework
-- [Hyperparameter exploration in linear regression](ML_Project_2_Hyperparameter_Exploration_in_Linear_Regression_Models.ipynb) — predictive modeling and model comparison
+- [ADNI Alzheimer's disease image classification](adni_classification_version_04.ipynb) — medical image classification coursework
+- [BraTS brain tumor segmentation](brats_tumor_segmentation_version_02.ipynb) — MRI segmentation coursework
+- [Hyperparameter exploration in linear regression](linear_regression_hyperparameter_exploration.ipynb) — predictive modeling and model comparison
 
 ## Featured Project Areas
 
